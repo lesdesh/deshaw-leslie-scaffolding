@@ -1,0 +1,171 @@
+@charset "UTF-8";
+
+p{
+    color: #fff;
+    line-height: 100px;
+    background: #000;
+    text-align: center;
+    margin: 0;
+}
+
+body{
+    font-family: "helvetica neue",Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #333;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color:#313131;
+
+}
+
+a:hover, a:active {
+    text-decoration: none;
+    color: #666;
+}
+.hidden {
+    display: none;
+}
+
+#topBar{
+    background-color: #000;
+    height: 20px;
+}
+
+#siteContainer{
+    margin: 0 auto;
+    width: 1920px;
+    padding-left: 20px;
+    padding-right:20px
+}
+#mainHeader{
+    margin-top: 40px;
+    padding-bottom: 40px;
+    overflow: hidden;
+    border-bottom: solid 1px #ddd;
+}
+
+#logo {
+    width: 280px;
+    height: 135px;
+    margin-left:800px;
+
+}
+#mainNav{
+    float: left;
+    width: 75px;
+    height: 75px;
+}
+
+#welcome{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    overflow: hidden;
+    border-bottom: solid 1px #ddd;
+
+}
+#welcome p{
+    line-height: 586px;
+}
+#welcomeimagewithtext {
+    float:left;
+    width: 1920px;
+    height: 586px;
+}
+    
+
+#productLine{
+    margin-top:40px;
+    overflow: hidden;
+    border-bottom: solid 1px #ddd;
+    padding-bottom: 40px;
+}
+
+#productLineImage{
+    float:left;
+    width: 900px;
+    height: 682px;
+}
+
+#advertismentsImage {
+    float: right;
+    width: 900px;
+    height: 682px;
+}
+#productLine p{
+    line-height: 682px;
+}
+
+#mainFooter {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    overflow: hidden;
+}
+
+#footerlogo{
+    float: left;
+    width:100px; 
+    height:100px;
+    margin: 20px
+}
+#footerNav{
+    float: left;
+    width:175px;
+    height:75px;
+    margin: 20px;
+}
+#copyright{
+    float: right;
+    width: 310px;
+    height:75px;
+    margin: 20px;
+}
+
+/*About us Page*/
+
+#Beginnings{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    overflow: hidden;
+    border-bottom: solid 1px #ddd;
+
+}
+#beginningsimage p{
+    line-height: 586px;
+}
+#beginningsimage {
+    float:left;
+    width: 780px;
+    height: 615px;
+}
+    
+
+#Beginningstext{
+    overflow: hidden;
+    border-bottom: solid 1px #ddd;
+    width: 1026px;
+   
+    
+}
+#Beginningstext p{
+    line-height: 586px;
+    margin-left: 20px
+}
+
+#productLine{
+    margin-top:40px;
+    overflow: hidden;
+    border-bottom: solid 1px #ddd;
+    padding-bottom: 40px;
+}
+
+
+#approachtext{
+    line-height: 482px;
+    width: 1900px;
+    height: 482px;
+}
+#approachtext p{
+    line-height: 482px;
+}
