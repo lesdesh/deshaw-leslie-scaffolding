@@ -1,0 +1,14 @@
+landing page/index
+welcome banner size: w 1920px x h586px
+product line and advertisment: w 900px x h 682px, 70 px between them. 24px left and right margin, 45px margin on top, 
+footer and header:1920px w x 155px h
+header logo:280 px w x 135px h
+footer logo: 100px x 100px
+
+about page
+
+footer and header:1920px w x 155px h
+image: 780px w x 615px h
+font: 45px
+header logo:280 px w x 135px h
+footer logo: 100px x 100px
